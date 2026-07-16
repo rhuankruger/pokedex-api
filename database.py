@@ -60,7 +60,7 @@ def remover_pokemon():
             WHERE nome = ?
         """, (remocao,))
         conexao.commit()
-        print("Removido com Sucesso!")
+        print("Retirado com Sucesso!")
     
     else:
         print("Não encontrado!")
