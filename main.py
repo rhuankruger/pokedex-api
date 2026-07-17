@@ -18,5 +18,5 @@ while True:
         remover_pokemon()
 
     elif decisao == 4:
-        print("Até mais!")
+        print("Até logo, obrigado por usar a PokeDex!")
         break
