@@ -18,5 +18,5 @@ while True:
         remover_pokemon()
 
     elif decisao == 4:
-        print("Até mais!")
+        print("Até mais, não esqueça de avaliar nosso app!")
         break
