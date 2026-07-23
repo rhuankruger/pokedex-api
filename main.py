@@ -19,4 +19,5 @@ while True:
 
     elif decisao == 4:
         print("Até mais, não esqueça de avaliar nosso app!")
+        print("Até logo, obrigado por usar a PokeDex!")
         break
